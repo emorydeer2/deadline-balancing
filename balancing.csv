@@ -3246,8 +3246,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,AK_545_Carbine,Kazarov Group AK 5.45 Carbine,20,0,65,70,0,0.4,1,2300,,,1,30000
 ,,MosinNagant,Mosin Nagant M91/30 PU,65,0,80,90,0,0.2,1,1900,,,1,14000
 ,shotgun,,,,,,,,,,,,,,
-,,Remington870,Roosevelt M870 Express,1999999,0,120,120,1,0.8,1,1000,2,,1,20000
-,,MP133,Ladoga MP133,-2384,0,-234,-89,1,0.6,1,1000,2,,1,9000
+,,Remington870,Roosevelt M870 Express,1999999,0,120,120,1,0.8,1,1000,2,29999,1,20000
+,,MP133,Ladoga MP133,-2384,0,-234,-89,1,0.6,1,1000,2,23979797,1,9000
 ,smg,,,,,,,,,,,,,,
 ,,MP5,KF MPi-54,40,0,45,55,0,1.05,1,1200,,,1,5000
 ,,SCALAR,KALIS Scalar Gen II,45,0,60,60,0,1.2,1,900,,,1,90000
