@@ -1203,16 +1203,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,magazine_9x19_ump9,,,,,,,,,,,,,,
 ,,hk_ump9_9x19_30r_mag,UMK-9 9x19 30R,0,0.38,,,30,,,,,,,500
 ,magazine_12g_r870,,,,,,,,,,,,,,
-,,dragoon_systems_lsx_2rnd_extension,Dragoon Systems LSX +2,9,0.07,,,,,,,,,,550
-,,dragoon_systems_lsx_3rnd_extension,Dragoon Systems LSX +3,8,0.1,,,,,,,,,,750
-,,dragoon_systems_lsx_4rnd_extension,Dragoon Systems LSX +4,7,0.13,,,,,,,,,,1100
-,,dragoon_systems_lsx_5rnd_extension,Dragoon Systems LSX +5,5,0.16,,,,,,,,,,1500
-,,dragoon_systems_lsx_6rnd_extension,Dragoon Systems LSX +6,3,0.19,,,,,,,,,,2000
-,,dragoon_systems_lsx_7rnd_extension,Dragoon Systems LSX +7,1,0.22,,,,,,,,,,2500
-,,dragoon_systems_lsx_8rnd_extension,Dragoon Systems LSX +8,-1,0.25,,,,,,,,,,3000
-,,r870_4rnd_extension,Roosevelt +4,7,0.13,,,,,,,,,,1000
+,,dragoon_systems_lsx_2rnd_extension,Dragoon Systems LSX +2,9,0.07,,,12345,,,,,,,550
+,,dragoon_systems_lsx_3rnd_extension,Dragoon Systems LSX +3,8,0.1,,,1111,,,,,,,750
+,,dragoon_systems_lsx_4rnd_extension,Dragoon Systems LSX +4,7,0.13,,,-58,,,,,,,1100
+,,dragoon_systems_lsx_5rnd_extension,Dragoon Systems LSX +5,5,0.16,,,0,,,,,,,1500
+,,dragoon_systems_lsx_6rnd_extension,Dragoon Systems LSX +6,3,0.19,,,0,,,,,,,2000
+,,dragoon_systems_lsx_7rnd_extension,Dragoon Systems LSX +7,1,0.22,,,0,,,,,,,2500
+,,dragoon_systems_lsx_8rnd_extension,Dragoon Systems LSX +8,-1,0.25,,,0,,,,,,,3000
+,,r870_4rnd_extension,Roosevelt +4,7,0.13,,,0,,,,,,,1000
 ,,r870_std_4r_mag_cap,Roosevelt 870 4R,11,0.02,,,,,,,,,,0
-,,r870_2rnd_extension,Roosevelt +2,9,0.07,,,,,,,,,,500
+,,r870_2rnd_extension,Roosevelt +2,9,0.07,,,234,,,,,,,500
 ,magazine_5.45x39,,,,,,,,,,,,,,
 ,,5.45x39_6l26,6L26,-7,0.63,,,45,,,,,,,1600
 ,,5.45x39_6l31,6L31,-12,0.8,,,60,,,,,,,3000
@@ -1296,9 +1296,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,r870_711mm_barrel_vent_ribs,Roosevelt 711mm Smoothbore With Vent Ribs,2,0.8,-2,-2,,-0.15,0.15,300,-0.25,,,1750
 ,,r870_762mm_barrel_vent_ribs,Roosevelt 762mm Smoothbore With Vent Ribs,0.5,0.86,-2.5,-2.5,,-0.2,0.2,327,-0.3,,,2000
 ,,r870_864mm_barrel_vent_ribs,Roosevelt 864mm Smoothbore With Vent Ribs,-2,1,-4,-4,,-0.2,0.25,376,-0.3,,,3500
-,,r870_211mm_sawn_off,Sawn Off Smoothbore 211mm,5,0.29,5,5,,0.3,-0.2,-176,0.3,,,1000
+,,r870_211mm_sawn_off,Sawn Off Smoothbore 211mm,5,0.29,5,5,,0.3,-0.2,-176,0.3,,20,1000
 ,,r870_508mm_fixed_sight,Roosevelt 508mm Smoothbore With Fixed Sight,4,0.66,0,0,,0.05,0,168,-0.05,,,1100
-,,wesson_slug_610mm_cantilever,Wesson's Slug 610mm w/ cantilever,-1,0.72,-2,-1,,-0.5,0.1,390,0.5,,,2500
+,,wesson_slug_610mm_cantilever,Wesson's Slug 610mm w/ cantilever,-1,0.72,-2,-1,,-0.5,0.1,390,0.5,,-0.1,2500
 ,r870_barrel_front_sight,,,,,,,,,,,,,,
 ,,r870_std_front_sight,Roosevelt Standard Barrel,1,0.1,,,,,,,,,,0
 ,r870_bolt,,,,,,,,,,,,,,
